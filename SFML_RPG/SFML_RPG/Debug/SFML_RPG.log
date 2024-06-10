@@ -1,0 +1,9 @@
+﻿  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  MainMenuState.cpp
+  Player.cpp
+  State.cpp
+  main.cpp
+  Generating Code...
+  SFML_RPG.vcxproj -> D:\RPGSFML\SFML_RPG\Debug\SFML_RPG.exe

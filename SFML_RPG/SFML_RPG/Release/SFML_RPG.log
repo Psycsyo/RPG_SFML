@@ -1,0 +1,30 @@
+﻿  Button.cpp
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  main.cpp
+  MainMenuState.cpp
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:         with
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:         [
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:             T=unsigned int
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:         ]
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:         and
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:         [
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:             T=float
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,81): warning C4244:         ]
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:         with
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:         [
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:             T=unsigned int
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:         ]
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:         and
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:         [
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:             T=float
+D:\RPGSFML\SFML_RPG\SFML_RPG\MainMenuState.cpp(50,60): warning C4244:         ]
+  State.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 544 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML_RPG.vcxproj -> D:\RPGSFML\SFML_RPG\Release\SFML_RPG.exe
