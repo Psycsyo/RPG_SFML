@@ -1,5 +1,4 @@
-#ifndef STATE_H
-#define STATE_H
+#pragma once
 
 #include"Player.h"
 
@@ -37,4 +36,3 @@ public:
 	virtual void render(sf::RenderTarget* target = nullptr) = 0;
 };
 
-#endif

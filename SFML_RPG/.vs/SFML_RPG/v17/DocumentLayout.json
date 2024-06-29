@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\RPGSFML\\SFML_RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\HitboxComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\HitboxComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\MovementComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\MovementComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\AnimationComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\AnimationComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\HitboxComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{957ED9CC-151B-4D4B-8A13-562AA9C5DF6B}|SFML_RPG\\SFML_RPG.vcxproj|solutionrelative:SFML_RPG\\HitboxComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovementComponent.cpp",
-              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\MovementComponent.cpp",
-              "RelativeDocumentMoniker": "SFML_RPG\\MovementComponent.cpp",
-              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\MovementComponent.cpp",
-              "RelativeToolTip": "SFML_RPG\\MovementComponent.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-11T14:39:19.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovementComponent.h",
-              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\MovementComponent.h",
-              "RelativeDocumentMoniker": "SFML_RPG\\MovementComponent.h",
-              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\MovementComponent.h",
-              "RelativeToolTip": "SFML_RPG\\MovementComponent.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T14:39:20.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\Player.cpp",
-              "RelativeDocumentMoniker": "SFML_RPG\\Player.cpp",
-              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\Player.cpp",
-              "RelativeToolTip": "SFML_RPG\\Player.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "HitboxComponent.cpp",
+              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\HitboxComponent.cpp",
+              "RelativeDocumentMoniker": "SFML_RPG\\HitboxComponent.cpp",
+              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\HitboxComponent.cpp",
+              "RelativeToolTip": "SFML_RPG\\HitboxComponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-11T07:17:18.733Z",
+              "WhenOpened": "2024-06-26T09:37:39.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameState.cpp",
-              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\GameState.cpp",
-              "RelativeDocumentMoniker": "SFML_RPG\\GameState.cpp",
-              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\GameState.cpp",
-              "RelativeToolTip": "SFML_RPG\\GameState.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-12T08:16:35.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AnimationComponent.h",
-              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\AnimationComponent.h",
-              "RelativeDocumentMoniker": "SFML_RPG\\AnimationComponent.h",
-              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\AnimationComponent.h",
-              "RelativeToolTip": "SFML_RPG\\AnimationComponent.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "HitboxComponent.h",
+              "DocumentMoniker": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\HitboxComponent.h",
+              "RelativeDocumentMoniker": "SFML_RPG\\HitboxComponent.h",
+              "ToolTip": "D:\\RPGSFML\\SFML_RPG\\SFML_RPG\\HitboxComponent.h",
+              "RelativeToolTip": "SFML_RPG\\HitboxComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-12T08:07:49.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:09:29.643Z"
             }
           ]
         }

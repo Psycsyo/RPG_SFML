@@ -1,7 +1,7 @@
-#ifndef MAINMENUSTATE_H
-#define MAINMENUSTATE_H
+#pragma once
 
 #include "GameState.h"
+#include "EditorState.h"
 #include "Button.h"
 
 class MainMenuState :
@@ -34,4 +34,3 @@ public:
 	void render(sf::RenderTarget* target = nullptr);
 };
 
-#endif

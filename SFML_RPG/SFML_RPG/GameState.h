@@ -1,5 +1,4 @@
-#ifndef GAMESTATE_H
-#define GAMESTATE_H
+#pragma once
 
 #include "State.h"
 
@@ -24,4 +23,3 @@ public:
 	void render(sf::RenderTarget* target = nullptr);
 };
 
-#endif

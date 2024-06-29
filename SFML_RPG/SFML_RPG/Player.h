@@ -1,5 +1,4 @@
-#ifndef PLAYER_H
-#define PLAYER_H
+#pragma once
 
 
 #include "Entity.h"
@@ -22,4 +21,3 @@ public:
     virtual void update(const float& dt);
 };
 
-#endif

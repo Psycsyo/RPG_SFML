@@ -1,6 +1,6 @@
-#ifndef ENTITY_H
-#define ENTITY_H
+#pragma once
 
+#include "HitboxComponent.h"
 #include "MovementComponent.h"
 #include "AnimationComponent.h"
 
@@ -12,6 +12,7 @@ private:
 protected:
 	sf::Sprite sprite;
 
+	HitboxComponent* hitboxComponent;
 	MovementComponent* movementComponent;
 	AnimationComponent* animationComponent;
 
@@ -33,4 +34,3 @@ public:
 	virtual void render(sf::RenderTarget* target) ;
 };
 
-#endif

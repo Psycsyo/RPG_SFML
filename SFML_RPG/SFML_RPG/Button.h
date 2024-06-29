@@ -1,5 +1,4 @@
-#ifndef BUTTON_H
-#define BUTTON_H
+#pragma once
 
 #include<iostream>
 #include<ctime>
@@ -45,4 +44,3 @@ public:
 	void render(sf::RenderTarget* target);
 };
 
-#endif
